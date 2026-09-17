@@ -1,4 +1,4 @@
-namespace _2026_09_17_introduction
+﻿namespace _2026_09_17_introduction
 {
     internal static class Program
     {
@@ -11,7 +11,12 @@ namespace _2026_09_17_introduction
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+
+            // Перше завдання
+             Application.Run(new Form1());
+
+            // Друге завдання
+            // Application.Run(new CalculationForm());
         }
     }
 }
