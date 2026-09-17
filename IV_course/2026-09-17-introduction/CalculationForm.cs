@@ -22,7 +22,7 @@ namespace _2026_09_17_introduction
 
         }
 
-        private void closeButton_Click(object sender, EventArgs e)
+        private void closeButtonClick(object sender, EventArgs e)
         {
             Close();
         }
@@ -59,7 +59,7 @@ namespace _2026_09_17_introduction
                 (3.0 - Math.Pow(z, 2) / 5.0));
         }
 
-        private void calculateButton_Click(object sender, EventArgs e)
+        private void calculateButtonClick(object sender, EventArgs e)
         {
             if (!TryReadInputValues(out double x, out double y, out double z))
             {
