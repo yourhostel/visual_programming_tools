@@ -43,6 +43,8 @@
 
 3. Куби чисел [NumberCubesForm.cs](https://github.com/yourhostel/visual_programming_tools/blob/main/IV_course/2026-09-20-user-interface/NumberCubesForm.cs)
 
+![Screenshot 2026-09-20 171038.png](screenshots/Screenshot%202026-09-20%20171038.png)
+
 Програма обчислює куби чисел від 1 до 9 із кроком 2 за допомогою циклу `for`.
 Результати виводяться стовпчиком у багаторядкове текстове поле `TextBox`
 за допомогою методу `AppendText()`. Перед повторним обчисленням попередні
