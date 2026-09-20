@@ -1,5 +1,7 @@
 ﻿# Практична робота № 2. Інструменти візуальної розробки додатків
 
+[![YouTube](https://img.shields.io/badge/YouTube-демонстрація_роботи_з_формами-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=df7rEHhCezE)
+
 - Мова програмування: C#
 - Технологія: Windows Forms (.NET 8.0)
 - Середовище розробки: Visual Studio Community 2022
@@ -13,21 +15,21 @@
 
 Реалізовані завдання
 
-1. Сума двох чисел (`SumForm`)
+1. Сума двох чисел [SumForm.cs](https://github.com/yourhostel/visual_programming_tools/blob/main/IV_course/2026-09-20-visual-development/SumForm.cs)
 
 ![Screenshot 2026-09-20 162132.png](screenshots/Screenshot%202026-09-20%20162132.png)
 
 Форма зчитує два дійсні числа, перевіряє коректність введення за допомогою `double.TryParse()`,
 обчислює їхню суму та виводить результат.
 
-2. Мінімум із трьох чисел (`MinimumForm`)
+2. Мінімум із трьох чисел [MinimumForm.cs](https://github.com/yourhostel/visual_programming_tools/blob/main/IV_course/2026-09-20-visual-development/MinimumForm.cs)
 
 ![Screenshot 2026-09-20 162201.png](screenshots/Screenshot%202026-09-20%20162201.png)
 
 Форма зчитує три дійсні числа та знаходить найменше з них за допомогою послідовних порівнянь
 оператором if. Для кожного поля введення передбачено окрему перевірку коректності.
 
-3. Арифметичні операції (`CalculatorForm`)
+3. Арифметичні операції [CalculatorForm.cs](https://github.com/yourhostel/visual_programming_tools/blob/main/IV_course/2026-09-20-visual-development/CalculatorForm.cs)
 
 ![Screenshot 2026-09-20 162224.png](screenshots/Screenshot%202026-09-20%20162224.png)
 ![Screenshot 2026-09-20 162239.png](screenshots/Screenshot%202026-09-20%20162239.png)
@@ -36,7 +38,7 @@
 Вибір операції реалізовано оператором `switch`. Перед обчисленням перевіряються числові
 значення та символ операції. Передбачено обробку ділення на нуль.
 
-4. Належність точки зафарбованій області (`PointRegionForm`)
+4. Належність точки зафарбованій області [PointRegionForm.cs](https://github.com/yourhostel/visual_programming_tools/blob/main/IV_course/2026-09-20-visual-development/PointRegionForm.cs)
 ![Screenshot 2026-09-20 162336.png](screenshots/Screenshot%202026-09-20%20162336.png)
 ![Screenshot 2026-09-20 162359.png](screenshots/Screenshot%202026-09-20%20162359.png)
 ![Screenshot 2026-09-20 162418.png](screenshots/Screenshot%202026-09-20%20162418.png)
@@ -55,7 +57,7 @@
 
 Структура додатка
 
-`MainForm` є стартовою формою та містить меню вибору завдання. Кожне завдання реалізовано в окремій формі,
+[MainForm.cs](https://github.com/yourhostel/visual_programming_tools/blob/main/IV_course/2026-09-20-visual-development/MainForm.cs) є стартовою формою та містить меню вибору завдання. Кожне завдання реалізовано в окремій формі,
 яка відкривається з головного меню.
 
 ![Screenshot 2026-09-20 162102.png](screenshots/Screenshot%202026-09-20%20162102.png)
