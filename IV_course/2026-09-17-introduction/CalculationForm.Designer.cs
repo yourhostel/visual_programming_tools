@@ -111,7 +111,7 @@
             calculateButton.TabIndex = 7;
             calculateButton.Text = "Обчислити";
             calculateButton.UseVisualStyleBackColor = true;
-            calculateButton.Click += calculateButton_Click;
+            calculateButton.Click += calculateButtonClick;
             // 
             // closeButton
             // 
@@ -121,7 +121,7 @@
             closeButton.TabIndex = 8;
             closeButton.Text = "Закрити";
             closeButton.UseVisualStyleBackColor = true;
-            closeButton.Click += closeButton_Click;
+            closeButton.Click += closeButtonClick;
             // 
             // CalculationForm
             // 
