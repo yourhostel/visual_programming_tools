@@ -82,6 +82,7 @@ Windows Forms для роботи з файлами, текстом і сист�
 | `contextFontMenuItem`  | `Click`     | `contextFontMenuItemClick`  | Зміна шрифту виділеного тексту через `FontDialog`  |
 | `printMenuItem`        | `Click`     | `printMenuItemClick`        | Відкриття системного діалогу друку та запуск друку |
 | `printDocument`        | `PrintPage` | `printDocumentPrintPage`    | Формування вмісту сторінки для друку               |
+| `helpMenuItem`         | `Click`     | `helpMenuItemClick`         | Відображення інформації про програму та розробника |
 
 ### Робота з файлами та форматуванням тексту
 
@@ -130,3 +131,11 @@ Windows Forms для роботи з файлами, текстом і сист�
 ![Screenshot 2026-10-03 213743.png](screenshots/Screenshot%202026-10-03%20213743.png)
 
 ![Screenshot 2026-10-03 215111.png](screenshots/Screenshot%202026-10-03%20215111.png)
+
+### Інформація про програму та розробника
+
+Пункт головного меню `Довідка` відкриває стандартне інформаційне діалогове
+вікно `MessageBox`, у якому відображаються назва практичної роботи та
+інформація про розробника програми.
+
+![Screenshot 2026-10-04 010258.png](screenshots/Screenshot%202026-10-04%20010258.png)

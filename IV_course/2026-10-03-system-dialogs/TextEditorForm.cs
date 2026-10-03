@@ -144,5 +144,20 @@
 
             e.HasMorePages = firstCharacterToPrint < editorRichTextBox.TextLength;
         }
+
+        private void helpMenuItemClick(object sender, EventArgs e)
+        {
+            MessageBox.Show(
+                "Текстовий редактор\n\n" +
+                "Практична робота № 4\n" +
+                "«Розробка діалогових вікон. Системні діалоги»\n\n" +
+                "Розробник: Тищенко Сергій Сергійович\n" +
+                "Група: alk-43\n" +
+                "Київ — 2026",
+                "Про програму",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information
+            );
+        }
     }
 }

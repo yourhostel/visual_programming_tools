@@ -138,6 +138,7 @@
             helpMenuItem.Name = "helpMenuItem";
             helpMenuItem.Size = new Size(61, 20);
             helpMenuItem.Text = "Довідка";
+            helpMenuItem.Click += helpMenuItemClick;
             // 
             // editorRichTextBox
             // 
