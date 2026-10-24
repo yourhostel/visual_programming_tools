@@ -1,6 +1,6 @@
 ﻿namespace DrawingAnimation;
 
-partial class Form1
+partial class AnimationForm
 {
     /// <summary>
     ///  Required designer variable.

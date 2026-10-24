@@ -16,8 +16,11 @@
 
 ## Реалізація
 
-- TODO
+![frames.svg](screenshots/frames.svg)
 
-## Результати
+`Timer.Tick` змінює `carX`, `Invalidate()` запитує перемальовування, а `OnPaint()` викликає `DrawCar()`
+з новими координатами. `DoubleBuffered = true` зменшує мерехтіння під час руху.
 
-- TODO
+## Результат
+
+![animation.gif](screenshots/animation.gif)
