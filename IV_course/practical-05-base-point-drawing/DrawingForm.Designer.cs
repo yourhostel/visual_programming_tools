@@ -1,6 +1,6 @@
 ﻿namespace BasePointDrawing;
 
-partial class Form1
+partial class DrawingForm
 {
     /// <summary>
     ///  Required designer variable.
