@@ -19,12 +19,12 @@ C# course repository for laboratory work, practical exercises, and Windows Forms
 | 2  | Visual Application Development | [2026-09-20-visual-development](IV_course/2026-09-20-visual-development/)       | Completed |
 | 3  | User Interface Controls        | [2026-09-20-user-interface](IV_course/2026-09-20-user-interface/)               | Completed |
 | 4  | System Dialogs and Text Editor | [2026-10-03-system-dialogs](IV_course/2026-10-03-system-dialogs/)               | Completed |
-| 5  | Base Point Drawing             | [practical-05-base-point-drawing](IV_course/practical-05-base-point-drawing/)   | Planned   |
-| 6  | Drawing Animation              | [practical-06-animation](IV_course/practical-06-animation/)                     | Planned   |
-| 7  | Cafe Order Interface           | [practical-07-cafe-order](IV_course/practical-07-cafe-order/)                   | Planned   |
-| 8  | Tabular Data and XML           | [practical-08-tabular-data](IV_course/practical-08-tabular-data/)               | Planned   |
-| 9  | Image Rendering                | [practical-09-image-rendering](IV_course/practical-09-image-rendering/)         | Planned   |
-| 10 | Graphics Chart                 | [practical-10-graphics-chart](IV_course/practical-10-graphics-chart/)           | Planned   |
+| 5  | Base Point Drawing             | [practical-05-base-point-drawing](IV_course/practical-05-base-point-drawing/)   | Completed |
+| 6  | Drawing Animation              | [practical-06-animation](IV_course/practical-06-animation/)                     | Completed |
+| 7  | Cafe Order Interface           | [practical-07-cafe-order](IV_course/practical-07-cafe-order/)                   | Completed |
+| 8  | Tabular Data and XML           | [practical-08-tabular-data](IV_course/practical-08-tabular-data/)               | Completed |
+| 9  | Image Rendering                | [practical-09-image-rendering](IV_course/practical-09-image-rendering/)         | Completed |
+| 10 | Graphics Chart                 | [practical-10-graphics-chart](IV_course/practical-10-graphics-chart/)           | Completed |
 | 11 | Database Connection            | [practical-11-database-connection](IV_course/practical-11-database-connection/) | Planned   |
 | 12 | Database Operations            | [practical-12-database-operations](IV_course/practical-12-database-operations/) | Planned   |
 | 13 | Word Automation                | [practical-13-word-automation](IV_course/practical-13-word-automation/)         | Planned   |
